@@ -1,0 +1,10 @@
+* {
+    caret-color: transparent;
+}
+#preloader {
+    background: #0A0A0A url(/images/processing.gif) no-repeat center;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    z-index: 100;
+}
