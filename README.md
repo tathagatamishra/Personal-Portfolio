@@ -1,6 +1,6 @@
 # Personal-Portfolio
 
-### Deployed on Netlify &#160; &#10148; &#160; https://mishra-ji.netlify.app/
+### Deployed on Netlify &#160; <img src="https://media.giphy.com/media/FbUuPsOW3oOCdAHexF/giphy.gif" width="50"> &#160; https://mishra-ji.netlify.app/
 -----------------------------------------------------------
 
 ### SECTIONS
