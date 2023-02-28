@@ -1,6 +1,7 @@
 # Personal-Portfolio
 
-### Deployed on Netlify  =>  https://mishra-ji.netlify.app/
+### Deployed on Netlify  &#10148;  https://mishra-ji.netlify.app/
+-----------------------------------------------------------
 
 ### SECTIONS
 
