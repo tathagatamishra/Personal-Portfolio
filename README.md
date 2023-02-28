@@ -12,6 +12,11 @@
 `HTML` `CSS`
 
 
+### PREVIEW 
+
+
+![preview](https://user-images.githubusercontent.com/114053180/221776586-ce8ebe51-a95c-40dc-82ad-360f482af1c3.png)
+
 ### CODE
 created using HTML tables 
 ```sh
@@ -83,8 +88,3 @@ created using HTML tables
 </table>
 ```
 
-
-### PREVIEW 
-
-
-![preview](https://user-images.githubusercontent.com/114053180/221776586-ce8ebe51-a95c-40dc-82ad-360f482af1c3.png)
